@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+header{
+    font-style: initial;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 2cap;
+
+}
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:rgb(97, 96, 96);
+    color: aliceblue;
+    text-decoration-line: none;
+    margin-left: 1.5rem;
+    padding-left: 0rem;
+
+}
+
+h3{
+    text-align: center;
+}
+
+h3 a{
+    color:rgb(255, 254, 254)
+}
+
+.navbar dd a{
+    text-decoration: none;
+    color:#99f6ff;
+    border-bottom:2px solid transparent;
+}
